@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <footer className="App-footer">
-        <p>Day la footer</p>
+        <p>Footer</p>
       </footer>
     </div>
   );
