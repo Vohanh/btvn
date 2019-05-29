@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <footer className="App-Footer">
-        <p>Footer</p>
+        <p> &copy; Copyright 2019</p>
       </footer>
     </div>
   );
