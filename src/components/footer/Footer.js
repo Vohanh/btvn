@@ -1,13 +1,16 @@
 import React from 'react';
+import '../../assets/css/main.css'
 
-function App() {
-  return (
-    <div className="App">
-      <footer className="App-footer">
-        <p>Day la footer</p>
-      </footer>
-    </div>
-  );
+class Footer extends React.Component {
+  render() {
+    return (
+      <div className="footercss">
+        <footer >
+          &copy; copyright 2019
+        </footer>
+      </div>
+    );
+  }
 }
 
-export default App;
+export default Footer;
