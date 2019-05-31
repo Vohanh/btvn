@@ -1,6 +1,5 @@
 
 .headercss {
-    padding: 15px;
     background-color: antiquewhite;
     padding: 15px;
     color:white;
@@ -13,5 +12,22 @@ li{
 .footercss {
     background-color: bisque;
     padding: 15px;
-    margin:15px;
+    margin:0px;
+    width: 100%;
+}
+.abc {
+    padding: 30px;
+    background: darkgray;
+    color: aqua;
+    width: 40px;
+    cursor: pointer;
+    float: left;
+}
+.abc1 {
+    padding: 30px;
+    background: chocolate;
+    color:black;
+    width: 40px;
+    cursor: pointer;
+    float: left;
 }
